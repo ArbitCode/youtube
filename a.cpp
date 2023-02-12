@@ -4,5 +4,6 @@ using namespace std;
 int main(){
     string ss;
     cin >> ss;
-    cout << ss << endl;
+    
+    cout << "input string: " << ss << endl;
 }
